@@ -6,20 +6,18 @@ This repository contains all scripts, intermediate datasets, and derived resourc
 
 ---
 
-## Repository structure
-
-- `data/` – fasta file of nuclear and plastid baits
-- `scripts/` – custom scripts used for analyses  
-- `results/`
+## Repository 
 
 Raw sequencing data are not stored in this repository and will be made available through public sequence archives.
 
 ---
 
-## Bait design
+## Bait
 
 The 20KOrchidbaits set includes:
 - 20,000 nuclear baits
 - 400 plastid baits
 
+---
+## Script
 
