@@ -19,5 +19,19 @@ The 20KOrchidbaits set includes:
 - 400 plastid baits
 
 ---
+# Supporting data
+
+This file contains supporting datasets used to identify the subset of
+20KOrchidbaits shared among orchid subfamilies.
+
+Shared bait sets were defined through in silico capture simulations across
+representatives of all five Orchidaceae subfamilies (sheet 1) and across
+Catasetum species within Epidendroideae.
+
+These datasets document the universal core of orchid baits consistently
+recovered across major orchid lineages and support the comparative and
+phylogenomic analyses presented in the study.
+
+---
 ## Script
 
